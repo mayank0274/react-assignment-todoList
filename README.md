@@ -1,4 +1,4 @@
-![image](https://github.com/mayank0274/react-assignment-todoList/assets/113236810/5fd97dd6-7d45-420a-84cb-1f582b8623c7)# TO DO LIST
+# TO DO LIST
 
 # Preview
 LInk : https://to-do-list-react-task.netlify.app/
